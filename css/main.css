@@ -1,0 +1,52 @@
+*{
+	text-align: center;
+}
+body{
+	background-image: url("https://andrixss.files.wordpress.com/2012/09/butterflies-background1.jpg");
+	background-size: cover;
+}
+#wrapper{
+	width: 700px;
+	border-radius: 50px;
+	background-color: rgba(20,20,20,0.5);
+	margin: 20px auto;
+	padding: 30px;
+}
+h2,h1,p,i{
+	font-family: 'Slabo 27px';
+	color: #fff;
+	padding: 20px;
+}
+h1{
+	font-size: 4em;
+}
+h2{
+	font-size: 3em;
+}
+p{
+	font-size: 2em;
+	padding: 0;
+}
+#current{
+	font-size: 2.5em;
+	height: 100px;
+	padding: 20px;
+	color: #d891ff;
+}
+#controls{
+	border: 3px solid #ff9c1c;
+	border-radius: 25px;
+	padding: 15px;
+}
+i{
+	margin: 20px;
+	color: #ff9c1c;
+}
+#butterfly{
+	font-family: 'Dancing Script';
+	color: #d891ff;
+}
+#juke{
+	font-family: 'Luckiest Guy';
+	color: #ff9c1c;
+}
